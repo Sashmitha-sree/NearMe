@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 26-11-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -26,6 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 '''
+<map>
 map.html
 
 <html>
@@ -52,7 +53,9 @@ map.html
         </center>
     </body>
 </html>
+</map>
 
+<area>
 temple.html
 
 <html>
@@ -199,7 +202,7 @@ temple2.html
     </p>
     </body>
 </html>
-
+</area>
 '''
 
 
