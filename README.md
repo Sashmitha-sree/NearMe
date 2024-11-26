@@ -25,8 +25,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
-<map>
+"""
+
 map.html
 
 <html>
@@ -53,9 +53,9 @@ map.html
         </center>
     </body>
 </html>
-</map>
 
-<area>
+
+
 temple.html
 
 <html>
@@ -202,8 +202,8 @@ temple2.html
     </p>
     </body>
 </html>
-</area>
-'''
+
+"""
 
 
 ## OUTPUT
