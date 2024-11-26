@@ -59,7 +59,7 @@ temple.html
     <head>
         <title>MY HOME TOWN</title>
     </head>
-    <body bgcolor="#BDEDFF"
+    <body bgcolor="#BDEDFF">
     <h1 align="center">
         <font color="BLUE"><b>Vadapalani</b></font>
     </h1>
@@ -74,6 +74,7 @@ temple.html
             It is particularly famous for its beautiful architecture, religious significance, and the large number of devotees who visit regularly.
         </font>
     </p>
+    </body>
 </html>
 
 college.html
@@ -163,6 +164,7 @@ power.html
            
         </font>
     </p>
+    </body>
 </html>
 
 temple2.html
